@@ -1,0 +1,1847 @@
+fileFormatVersion: 2
+guid: d45a7502dd9e37944ba9f56c3a096166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1773747487139187658
+    second: Fyona_0
+  - first:
+      213: -6600843537660212347
+    second: Fyona_1
+  - first:
+      213: 8467398372819829193
+    second: Fyona_2
+  - first:
+      213: -2497251961548562385
+    second: Fyona_3
+  - first:
+      213: -6152719103568878522
+    second: Fyona_4
+  - first:
+      213: 7687088655181216471
+    second: Fyona_5
+  - first:
+      213: -1737925161419710356
+    second: Fyona_6
+  - first:
+      213: -3236364006930948078
+    second: Fyona_7
+  - first:
+      213: 8669656743684994832
+    second: Fyona_8
+  - first:
+      213: -2202510702669641304
+    second: Fyona_9
+  - first:
+      213: 2877041159680280571
+    second: Fyona_10
+  - first:
+      213: 4060384836137646503
+    second: Fyona_11
+  - first:
+      213: -5074003102751603568
+    second: Fyona_12
+  - first:
+      213: 8563015776130874947
+    second: Fyona_13
+  - first:
+      213: 1568667884576154406
+    second: Fyona_14
+  - first:
+      213: 2564688582653000934
+    second: Fyona_15
+  - first:
+      213: 8230044143703807282
+    second: Fyona_16
+  - first:
+      213: 3102969336504008239
+    second: Fyona_17
+  - first:
+      213: 2191718507362265273
+    second: Fyona_18
+  - first:
+      213: 3965440731503508292
+    second: Fyona_19
+  - first:
+      213: -4953245909100982495
+    second: Fyona_20
+  - first:
+      213: 6450264841203112350
+    second: Fyona_21
+  - first:
+      213: -9116450336623295267
+    second: Fyona_22
+  - first:
+      213: -1570678856296620308
+    second: Fyona_23
+  - first:
+      213: -3376336035210949725
+    second: Fyona_24
+  - first:
+      213: -7401452733732073716
+    second: Fyona_25
+  - first:
+      213: -1314562045718363178
+    second: Fyona_26
+  - first:
+      213: -3272674194135450559
+    second: Fyona_27
+  - first:
+      213: 6910615602759220480
+    second: Fyona_28
+  - first:
+      213: 7291270136538839617
+    second: Fyona_29
+  - first:
+      213: -3992813194907522384
+    second: Fyona_30
+  - first:
+      213: -2274003791542365591
+    second: Fyona_31
+  - first:
+      213: 5995432883035917755
+    second: Fyona_32
+  - first:
+      213: 6198236099648604030
+    second: Fyona_33
+  - first:
+      213: -3309201859004848496
+    second: Fyona_34
+  - first:
+      213: -7395778709038094564
+    second: Fyona_35
+  - first:
+      213: -6496477690755157680
+    second: Fyona_36
+  - first:
+      213: -3523044826192030755
+    second: Fyona_37
+  - first:
+      213: 2236774250609511361
+    second: Fyona_38
+  - first:
+      213: 9090412512147230316
+    second: Fyona_39
+  - first:
+      213: 335154225041215271
+    second: Fyona_40
+  - first:
+      213: 7613413554463171337
+    second: Fyona_41
+  - first:
+      213: -511083977109801809
+    second: Fyona_42
+  - first:
+      213: -1265719955575601838
+    second: Fyona_43
+  - first:
+      213: 9148787611584162230
+    second: Fyona_44
+  - first:
+      213: 2655557618567376000
+    second: Fyona_45
+  - first:
+      213: 9033598457587516833
+    second: Fyona_46
+  - first:
+      213: -3889295800487878317
+    second: Fyona_47
+  - first:
+      213: 4784037602909232721
+    second: Fyona_48
+  - first:
+      213: 1529265648393119129
+    second: Fyona_49
+  - first:
+      213: 3539689789698806617
+    second: Fyona_50
+  - first:
+      213: 7492071540000893931
+    second: Fyona_51
+  - first:
+      213: -5585657730449275816
+    second: Fyona_52
+  - first:
+      213: -3548372501571946617
+    second: Fyona_53
+  - first:
+      213: -1804443090347150308
+    second: Fyona_54
+  - first:
+      213: -5454517270066097589
+    second: Fyona_55
+  - first:
+      213: -4391726147050116526
+    second: Fyona_56
+  - first:
+      213: 1328089225185950937
+    second: Fyona_57
+  - first:
+      213: 1713949080446599280
+    second: Fyona_58
+  - first:
+      213: -2436842602328534181
+    second: Fyona_59
+  - first:
+      213: 5513420361923238946
+    second: Fyona_60
+  - first:
+      213: 6144380321775523162
+    second: Fyona_61
+  - first:
+      213: 2143842300150928396
+    second: Fyona_62
+  - first:
+      213: -2560747761823528651
+    second: Fyona_63
+  - first:
+      213: 7337063086174757816
+    second: Fyona_64
+  - first:
+      213: 7876457696949733800
+    second: Fyona_65
+  - first:
+      213: -4739904631457743208
+    second: Fyona_66
+  - first:
+      213: 6206196798896467363
+    second: Fyona_67
+  - first:
+      213: -8831019538384200605
+    second: Fyona_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fyona_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 975
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb4c2c11fd9d9810800000000000000
+      internalID: 1773747487139187658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 974
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b84d776c71564a0800000000000000
+      internalID: -6600843537660212347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 974
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c185a735fd328570800000000000000
+      internalID: 8467398372819829193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 974
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20204d629af75dd0800000000000000
+      internalID: -2497251961548562385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 974
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6446405e2962d9aa0800000000000000
+      internalID: -6152719103568878522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 975
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daf20967660eaa60800000000000000
+      internalID: 7687088655181216471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 974
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606d5b0646a1e7e0800000000000000
+      internalID: -1737925161419710356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 974
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210650b25102613d0800000000000000
+      internalID: -3236364006930948078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_8
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 974
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f9e3efdec05870800000000000000
+      internalID: 8669656743684994832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_9
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 974
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a941617f2c1f61e0800000000000000
+      internalID: -2202510702669641304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 752
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7cbe601bd4de720800000000000000
+      internalID: 2877041159680280571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 756
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9fd51ee72695830800000000000000
+      internalID: 4060384836137646503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 780
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094c24faf058599b0800000000000000
+      internalID: -5074003102751603568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 789
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eb856ca71f5d670800000000000000
+      internalID: 8563015776130874947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 805
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623a9be312705c510800000000000000
+      internalID: 1568667884576154406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 805
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec38887daa979320800000000000000
+      internalID: 2564688582653000934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 795
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235df374b8df63270800000000000000
+      internalID: 8230044143703807282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 753
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e304bdb26ff0b20800000000000000
+      internalID: 3102969336504008239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_18
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 753
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b82af6ce5c8a6e10800000000000000
+      internalID: 2191718507362265273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_19
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 752
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb123e553180730800000000000000
+      internalID: 3965440731503508292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 562
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995a17b2b1f38950800000000000000
+      internalID: 6450264841203112350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 565
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4041948bcdb7180800000000000000
+      internalID: -9116450336623295267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 565
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee193ae6e3d33ae0800000000000000
+      internalID: -1570678856296620308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_24
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 565
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab86eab348d421d0800000000000000
+      internalID: -3376336035210949725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_26
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 565
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d30fb5c8ccb1cde0800000000000000
+      internalID: -1314562045718363178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_27
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 565
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cf7f8e8202592d0800000000000000
+      internalID: -3272674194135450559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 565
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d3cb5d64077ef50800000000000000
+      internalID: 6910615602759220480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_29
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 565
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14abfc1fe8bcf2560800000000000000
+      internalID: 7291270136538839617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_30
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 562
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba6b07dd8da698c0800000000000000
+      internalID: -3992813194907522384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 396
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d93b899d1170e0800000000000000
+      internalID: -2274003791542365591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 393
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd4d04217e043350800000000000000
+      internalID: 5995432883035917755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 394
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ce8994ee840650800000000000000
+      internalID: 6198236099648604030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_34
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 395
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09624ff217a5312d0800000000000000
+      internalID: -3309201859004848496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_35
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 397
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17236ad27aec5990800000000000000
+      internalID: -7395778709038094564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_36
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 397
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051f947c5ffd7d5a0800000000000000
+      internalID: -6496477690755157680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_37
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 393
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3db0f7561ab1fc0800000000000000
+      internalID: -3523044826192030755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_38
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 396
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb025a745e9a0f10800000000000000
+      internalID: 2236774250609511361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_39
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 397
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e4d484402a72e70800000000000000
+      internalID: 9090412512147230316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_40
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 226
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f8d80fdf4b6a400800000000000000
+      internalID: 335154225041215271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 226
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ebe94a4748a960800000000000000
+      internalID: 7613413554463171337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_42
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 225
+        width: 126
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f9f5a4d348e8f0800000000000000
+      internalID: -511083977109801809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_43
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 225
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2550bce08624f6ee0800000000000000
+      internalID: -1265719955575601838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_44
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 226
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9e7f14cd507fe70800000000000000
+      internalID: 9148787611584162230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_45
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 226
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c6a47959f6ad420800000000000000
+      internalID: 2655557618567376000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 226
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a545046fe9cd5d70800000000000000
+      internalID: 9033598457587516833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 226
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35160896312760ac0800000000000000
+      internalID: -3889295800487878317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_49
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 226
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995edab310b093510800000000000000
+      internalID: 1529265648393119129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 226
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95313121c118f1130800000000000000
+      internalID: 3539689789698806617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 53
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb2195fe5f29f760800000000000000
+      internalID: 7492071540000893931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 54
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85408a363e1cb72b0800000000000000
+      internalID: -5585657730449275816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873a098206a1cec0800000000000000
+      internalID: -3548372501571946617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_54
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 52
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143376d19455f6e0800000000000000
+      internalID: -1804443090347150308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_55
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b421a703179ad44b0800000000000000
+      internalID: -5454517270066097589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_56
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 52
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a684e66547d03c0800000000000000
+      internalID: -4391726147050116526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_57
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 52
+        width: 132
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc7b312d125e6210800000000000000
+      internalID: 1328089225185950937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_58
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 52
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07080279b9b29c710800000000000000
+      internalID: 1713949080446599280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_59
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 51
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b535baa60989e2ed0800000000000000
+      internalID: -2436842602328534181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_60
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 51
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c17d99b9a938c40800000000000000
+      internalID: 5513420361923238946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_61
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 51
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55945c2959354550800000000000000
+      internalID: 6144380321775523162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_62
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 60
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04d3f2a63570cd10800000000000000
+      internalID: 2143842300150928396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_63
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 70
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539c1216a75667cd0800000000000000
+      internalID: -2560747761823528651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_64
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3e312e00c72d560800000000000000
+      internalID: 7337063086174757816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_65
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9841b4b8cce4d60800000000000000
+      internalID: 7876457696949733800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_66
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e7bbcc9d9783eb0800000000000000
+      internalID: -4739904631457743208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_67
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 61
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ade3645b17d02650800000000000000
+      internalID: 6206196798896467363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fyona_68
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c5312c48ae17580800000000000000
+      internalID: -8831019538384200605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c0b4794452160242bed869ca6c42f22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fyona_0: 1773747487139187658
+      Fyona_1: -6600843537660212347
+      Fyona_10: 2877041159680280571
+      Fyona_11: 4060384836137646503
+      Fyona_12: -5074003102751603568
+      Fyona_13: 8563015776130874947
+      Fyona_14: 1568667884576154406
+      Fyona_15: 2564688582653000934
+      Fyona_16: 8230044143703807282
+      Fyona_17: 3102969336504008239
+      Fyona_18: 2191718507362265273
+      Fyona_19: 3965440731503508292
+      Fyona_2: 8467398372819829193
+      Fyona_20: -4953245909100982495
+      Fyona_21: 6450264841203112350
+      Fyona_22: -9116450336623295267
+      Fyona_23: -1570678856296620308
+      Fyona_24: -3376336035210949725
+      Fyona_25: -7401452733732073716
+      Fyona_26: -1314562045718363178
+      Fyona_27: -3272674194135450559
+      Fyona_28: 6910615602759220480
+      Fyona_29: 7291270136538839617
+      Fyona_3: -2497251961548562385
+      Fyona_30: -3992813194907522384
+      Fyona_31: -2274003791542365591
+      Fyona_32: 5995432883035917755
+      Fyona_33: 6198236099648604030
+      Fyona_34: -3309201859004848496
+      Fyona_35: -7395778709038094564
+      Fyona_36: -6496477690755157680
+      Fyona_37: -3523044826192030755
+      Fyona_38: 2236774250609511361
+      Fyona_39: 9090412512147230316
+      Fyona_4: -6152719103568878522
+      Fyona_40: 335154225041215271
+      Fyona_41: 7613413554463171337
+      Fyona_42: -511083977109801809
+      Fyona_43: -1265719955575601838
+      Fyona_44: 9148787611584162230
+      Fyona_45: 2655557618567376000
+      Fyona_46: 9033598457587516833
+      Fyona_47: -3889295800487878317
+      Fyona_48: 4784037602909232721
+      Fyona_49: 1529265648393119129
+      Fyona_5: 7687088655181216471
+      Fyona_50: 3539689789698806617
+      Fyona_51: 7492071540000893931
+      Fyona_52: -5585657730449275816
+      Fyona_53: -3548372501571946617
+      Fyona_54: -1804443090347150308
+      Fyona_55: -5454517270066097589
+      Fyona_56: -4391726147050116526
+      Fyona_57: 1328089225185950937
+      Fyona_58: 1713949080446599280
+      Fyona_59: -2436842602328534181
+      Fyona_6: -1737925161419710356
+      Fyona_60: 5513420361923238946
+      Fyona_61: 6144380321775523162
+      Fyona_62: 2143842300150928396
+      Fyona_63: -2560747761823528651
+      Fyona_64: 7337063086174757816
+      Fyona_65: 7876457696949733800
+      Fyona_66: -4739904631457743208
+      Fyona_67: 6206196798896467363
+      Fyona_68: -8831019538384200605
+      Fyona_7: -3236364006930948078
+      Fyona_8: 8669656743684994832
+      Fyona_9: -2202510702669641304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
